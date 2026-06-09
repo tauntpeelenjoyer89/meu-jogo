@@ -8,7 +8,7 @@ int main () {
 	
 	cout << exibir();
 	
-	cout << dano();
+	cout << dano(); 
 	
 	
 	return 0;
