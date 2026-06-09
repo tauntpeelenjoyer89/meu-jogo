@@ -13,7 +13,7 @@ void exibir(string nome, int vida, int ataque) {
 }
 
 int dano (int ataque, int defesa) {
-	
+	 
 	int d = ataque - defesa;
 	return (d > 0) ? d : 0;
 }
