@@ -8,6 +8,8 @@ int main () {
 	
 	cout << exibir();
 	
+	cout << dano();
+	
 	
 	return 0;
 }
